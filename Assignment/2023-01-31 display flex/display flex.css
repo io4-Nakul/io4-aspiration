@@ -1,0 +1,472 @@
+.main {
+  width: 50%;
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: black;
+}
+.main-1 {
+  width: 12.5%;
+  height: 650px;
+}
+
+.main-2 {
+  width: 12.5%;
+  height: 650px;
+}
+.main-3 {
+  width: 12.5%;
+  height: 650px;
+}
+.main-4 {
+  width: 12.5%;
+  height: 650px;
+}
+.main-5 {
+  width: 12.5%;
+  height: 650px;
+}
+.main-6 {
+  width: 12.5%;
+  height: 650px;
+}
+.main-7 {
+  width: 12.5%;
+  height: 650px;
+}
+.main-8 {
+  width: 12.5%;
+  height: 650px;
+}
+.div-1 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgba(215, 32, 32, 0.987);
+  border-radius: 100px 0px 0px 100px;
+}
+.poke-1 {
+  position: absolute;
+  left: 1.4%;
+  top: 4.5%;
+}
+.poke-2 {
+  position: absolute;
+  left: 8.2%;
+  top: 27%;
+}
+.poke-3 {
+  position: absolute;
+  left: 20.5%;
+  top: 14%;
+}
+.poke-4 {
+  position: absolute;
+  left: 27%;
+  top: 27%;
+}
+.poke-5 {
+  position: absolute;
+  left: 45%;
+  bottom: 22.5%;
+}
+.poke-6 {
+  position: absolute;
+  left: 20.5%;
+  bottom: 22%;
+}
+.poke-7 {
+  position: absolute;
+  left: 33.2%;
+  bottom: 10.5%;
+}
+
+.div-2 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-3 {
+  width: 100%;
+  height: 81.25px;
+
+  border: none;
+}
+.div-4 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(74, 144, 74);
+  border-radius: 100px 0px 100px 100px;
+}
+.div-5 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgba(215, 32, 32, 0.987);
+  border-radius: 100px 0px 0px 100px;
+}
+.div-6 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-7 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(38, 143, 185);
+  border-radius: 100px 100px 100px 100px;
+}
+.div-8 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-9 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgba(237, 118, 27, 0.987);
+  border-radius: 0px 100px 100px 0px;
+}
+.div-10 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(119, 21, 119);
+  border-radius: 100px 0px 0px 100px;
+}
+.div-11 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(38, 143, 185);
+  border-radius: 100px 100px 100px 100px;
+}
+.div-12 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-13 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-14 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-15 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-16 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-17 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgba(215, 32, 32, 0.987);
+  border-radius: 100px 0px 0px 100px;
+}
+.div-18 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(119, 21, 119);
+  border-radius: 100px 0px 0px 100px;
+}
+.div-19 {
+  width: 100%;
+  height: 81.25px;
+
+  border: none;
+  background-color: rgb(38, 143, 185);
+  border-radius: 100px 100px 100px 100px;
+}
+.div-20 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(74, 144, 74);
+  border-radius: 100px 0px 100px 100px;
+}
+.div-21 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgba(215, 32, 32, 0.987);
+  border-radius: 100px 0px 0px 100px;
+}
+.div-22 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  border: none;
+  background-color: rgb(119, 21, 119);
+  border-radius: 100px 0px 0px 100px;
+}
+
+.div-23 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-24 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-25 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgba(237, 118, 27, 0.987);
+  border-radius: 0px 100px 100px 0px;
+}
+.div-26 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(119, 21, 119);
+  border-radius: 100px 0px 0px 100px;
+}
+.div-27 {
+  width: 100%;
+  height: 81.25px;
+
+  border: none;
+}
+.div-28 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(74, 144, 74);
+  border-radius: 100px 0px 100px 100px;
+}
+.div-29 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgba(237, 118, 27, 0.987);
+  border-radius: 0px 100px 100px 0px;
+}
+.div-30 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-31 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: blue;
+  border-radius: 100px 100px 100px 100px;
+}
+.div-32 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-33 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgba(215, 32, 32, 0.987);
+  border-radius: 100px 0px 0px 100px;
+}
+.div-34 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(119, 21, 119);
+  border-radius: 100px 0px 0px 100px;
+}
+.div-35 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: skyblue;
+  border-radius: 100px 100px 100px 100px;
+}
+.div-36 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(74, 144, 74);
+  border-radius: 100px 0px 100px 100px;
+}
+.div-37 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-38 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(119, 21, 119);
+  border-radius: 100px 0px 0px 100px;
+}
+.div-39 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-40 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-41 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgba(237, 118, 27, 0.987);
+  border-radius: 0px 100px 100px 0px;
+}
+.div-42 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-43 {
+  width: 100%;
+  height: 81.25px;
+
+  border: none;
+}
+.div-44 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(74, 144, 74);
+  border-radius: 100px 0px 100px 100px;
+}
+.div-45 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgba(237, 118, 27, 0.987);
+  border-radius: 0px 100px 100px 0px;
+}
+.div-46 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-47 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-48 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(74, 144, 74);
+  border-radius: 100px 0px 100px 100px;
+}
+.div-49 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgba(215, 32, 32, 0.987);
+  border-radius: 100px 0px 0px 100px;
+}
+.div-50 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(119, 21, 119);
+  border-radius: 100px 0px 0px 100px;
+}
+.div-51 {
+  width: 100%;
+  height: 81.25px;
+
+  border: none;
+}
+.div-52 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(74, 144, 74);
+  border-radius: 100px 0px 100px 100px;
+}
+.div-53 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-54 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-55 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-56 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-57 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgba(237, 118, 27, 0.987);
+  border-radius: 0px 100px 100px 0px;
+}
+.div-58 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(119, 21, 119);
+  border-radius: 100px 0px 0px 100px;
+}
+.div-59 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(38, 143, 185);
+  border-radius: 100px 100px 100px 100px;
+}
+.div-60 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-color: rgb(74, 144, 74);
+  border-radius: 100px 0px 100px 100px;
+}
+.div-61 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-62 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
+.div-63 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+  background-image: linear-gradient(to left, skyblue, rgb(12, 100, 207));
+  border-radius: 100px 100px 100px 100px;
+}
+.div-64 {
+  width: 100%;
+  height: 81.25px;
+  border: none;
+}
