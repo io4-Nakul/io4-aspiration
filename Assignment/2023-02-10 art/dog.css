@@ -91,7 +91,7 @@ body
     width: 15px;
     position: relative;
     right: -26px;
-    bottom: 530px;
+    bottom: 630px;
     border-radius: 50%;
 }
 .eye1
@@ -100,8 +100,8 @@ body
     height: 10px;
     width: 15px;
     position: relative;
-    right: -2px;
-    bottom: 570px;
+    right: -8px;
+    bottom: 589px;
     border-radius: 50%;
 }
 .eye2
@@ -110,22 +110,87 @@ body
     height: 10px;
     width: 15px;
     position: relative;
-    right: -49px;
-    bottom: 579px;
-    border-radius: 50%; 
+    right: -45px;
+    bottom: 600px;
+    border-radius: 50%;
 }
 .mouth
 {
     background-color: black;
+    height: 10px;
+    width: 20px;
+    position: relative;
+    right: -24px;
+    bottom: 620px;
+    border-radius: 50% 50%;
+}
+.eyeback1
+{
+    background-color: white;
     height: 20px;
     width: 30px;
     position: relative;
-    right: -20px;
-    bottom: 520px;
+    right: -2px;
+    bottom: 555px;
+    border-radius: 50% 50%;
+}
+.eyeback2
+{
+    background-color: white;
+    height: 20px;
+    width: 30px;
+    position: relative;
+    right: -39px;
+    bottom: 577px;
     border-radius: 50% 50%;
 }
 
+.nosemouthbacck
+{
+    background-color: aquamarine;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    right: -10px;
+    bottom: 590px;
+    border-radius: 50% 50%; 
 }
+
+.tear1
+{
+    background-color: orangered;
+    height: 10px;
+    width: 10px;
+    position: relative;
+    right: -2px;
+    bottom: 655px;
+    border-radius: 50% 50%; 
+}
+
+.tear2
+{
+    background-color: orangered;
+    height: 10px;
+    width: 10px;
+    position: relative;
+    right: -55px;
+    bottom: 664px;
+    border-radius: 50% 50%; 
+} 
+
+.cloud1
+{
+    background-color: rosybrown;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    right: -55px;
+    bottom: 664px;
+    border-radius: 50% 50%; 
+}
+
+
+
 
 
 
