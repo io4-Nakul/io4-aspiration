@@ -325,6 +325,140 @@ h2 {
     position: absolute;
 }
 
+.main7 {
+    width: 100%;
+    height: 350px;
+    background-color: white;
+}
+.main7h {
+    margin-top: 10px;
+    margin-left: 550px;
+    position: absolute;
+}
+.main71 {
+    margin-top: 65px;
+    margin-left: 100px;
+    position: absolute;
+} 
+.main71h {
+    margin-top: 275px;
+    margin-left: 100px;
+    position: absolute;
+}
+.main71p {
+    margin-top: 290px;
+    margin-left: 100px;
+    position: absolute;
+}
+.main71btn {
+    font-style: normal;
+    height: 35px;
+    width: 150px;
+    margin-left: 410px;
+    margin-top: 55px;
+    position: absolute;
+}
+.main72 {
+    margin-top: 40px;
+    margin-left: 600px;
+    position: absolute;
+} 
+.main72h {
+    margin-top: 250px;
+    margin-left: 600px;
+    position: absolute;
+}
+.main72p {
+    margin-top: 260px;
+    margin-left: 600px;
+    position: absolute;
+}
+.main72btn {
+    font-style: normal;
+    height: 55px;
+    width: 15px;
+    margin-left: 880px;
+    margin-top: 30px;
+    position: absolute;
+}
+
+.main73 {
+    margin-top: 20px;
+    margin-left: 1050px;
+    position: absolute;
+} 
+.main73h {
+    margin-top: 220px;
+    margin-left: 1050px;
+    position: absolute;
+}
+.main73p {
+    margin-top: 235px;
+    margin-left: 1050px;
+    position: absolute;
+}
+.main73btn {
+    font-style: normal;
+    height: 55px;
+    margin-left: 1300px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+
+.main8 {
+    width: auto;
+    height: 300px;
+    background-color: whitesmoke;
+}
+.main8h {
+    margin-top: 10px;
+    margin-left: 500px;
+    position: absolute;
+}
+.main8tbl {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-inline: 10px;
+    font-size: 15px;
+    list-style: none;
+}
+.footer {
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:260px;
+    margin-left: 500px;
+    list-style: none;
+
+}
+
+.main9 {
+    width: 100%;
+    height: 200px;
+}
+.main9h {
+    margin-top: 10px;
+    margin-left: 600px;
+    position: absolute;
+}
+.main9p {
+    margin-top: 50px;
+    margin-left: 150px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
