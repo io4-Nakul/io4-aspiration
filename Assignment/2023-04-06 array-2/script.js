@@ -86,7 +86,152 @@ console.log(index5);
 console.log(index6);
 
 
-//  9
+//  9 
+const arr9 = [210, 'Sunday', 702, true, null, '90', 'vinay', 'CAT'];
+
+const lastIndexOfVinay = arr9.lastIndexOf('vinay'); 
+const lastIndexOfNull = arr9.lastIndexOf(null); 
+const lastIndexOfAjay = arr9.lastIndexOf('Ajay');
+
+console.log(lastIndexOfVinay);
+console.log(lastIndexOfNull);
+console.log(lastIndexOfAjay);
+
+
+//  10 a
+const arr10 = [314,115, 54, 101, -52, -10, 0.56, 5, 12, 8, 130, 44];
+
+const findArr10 = [];
+
+for(let i = 0; i < arr10.length; i++) {
+  if(arr10[i] > 11) {
+    findArr10.push(i);
+  }
+}
+
+console.log(findArr10); 
+
+//  10  b
+const arr10b = [314, 115, 54, 101, -52, -10, 0.56, 5, 12, 8, 130, 44];
+const findArr10b = [];
+
+for (let i = 0; i < arr10b.length; i++) {
+  if (arr10b[i] * 10 + 5 >= 100) {
+    findArr10b.push(i);
+  }
+}
+
+console.log(findArr10b); 
+
+
+//  11 
+const weekDays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+
+const outputWeekDays = weekDays.includes('Sunday');
+console.log(outputWeekDays); 
+
+const outputWeekDays1 = weekDays.includes('Wednesday');
+console.log(outputWeekDays1); 
+
+const outputWeekDays2 = weekDays.includes('Funday');
+console.log(outputWeekDays2); 
+
+
+
+//  12
+let daysOfWeek12 = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+
+daysOfWeek12.push('Funday');
+
+console.log(daysOfWeek12);
+
+
+//  13
+let daysOfWeek13 = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+daysOfWeek13.pop(); 
+console.log(daysOfWeek13); 
+
+
+
+//  14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
