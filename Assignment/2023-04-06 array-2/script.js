@@ -154,6 +154,25 @@ console.log(daysOfWeek13);
 
 
 //  14
+let arr14 = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+arr14.unshift('Funday'); 
+
+console.log(arr14); 
+
+
+//  15  a
+let months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
+
+months.splice(0, 2);
+
+console.log(months); 
+
+//  15 b
+let num15 = [11, -152, -10, 2.56, -5];
+num15.splice(0, 2); 
+console.log(num15); 
+
+
 
 
 
