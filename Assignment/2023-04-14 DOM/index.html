@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+    <title>Company Information</title>
+    <dir class="div1"></dir>
+    <div class="div2"></div>
+    <h1>FIXED TABLE HEADER</h1>
+    <style>
+        h1 {
+            position: absolute;
+            margin-top: -700px;
+            margin-left: 220px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 40%;
+            height: 50%;
+            font-family: Arial, sans-serif;
+            margin-top: -600px;
+            margin-left: 100px;
+            position: absolute;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 3px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <table id="companyTable">
+        <tr>
+            <th>COMPANY</th>
+            <th>PRICE</th>
+            <th>CHANGE</th>
+            <th>CHANGE %</th>
+        </tr>
+    </table>
+
+    <script>
+        
+        const companies = [
+            { company: "AUSTRALIAN COMPANY", price: 138, change: +2.01, changePercentage: -0.36 },
+            { company: "AUSENCO", price: 238, change: -0.01, changePercentage: -1.36 },
+            { company: "ADELAIDE", price: 322, change: +0.01, changePercentage: +1.36 },
+            { company: "ADITYA BIRLA", price: 102, change: -1.01, changePercentage: +2.36 },
+            { company: "AUSTRALIAN COMPANY", price: 138, change: +2.01, changePercentage: -1.36 },
+            { company: "AUSENCO", price: 238, change: -0.01, changePercentage: -1.36 }
+        ];
+
+        
+        const table = document.getElementById("companyTable");
+
+        
+        for (let i = 0; i < companies.length; i++) {
+            const row = document.createElement("tr");
+            const companyCell = document.createElement("td");
+            const priceCell = document.createElement("td");
+            const changeCell = document.createElement("td");
+            const changePercentageCell = document.createElement("td");
+
+            companyCell.textContent = companies[i].company;
+            priceCell.textContent = companies[i].price;
+            changeCell.textContent = companies[i].change;
+            changePercentageCell.textContent = companies[i].changePercentage + "%";
+
+            row.appendChild(companyCell);
+            row.appendChild(priceCell);
+            row.appendChild(changeCell);
+            row.appendChild(changePercentageCell);
+
+            table.appendChild(row);
+        }
+    </script>
+</body>
+</html>
+  
+    
+</body>
+</html>

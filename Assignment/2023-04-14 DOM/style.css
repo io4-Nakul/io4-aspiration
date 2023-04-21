@@ -1,0 +1,15 @@
+.div1 {
+    background-color:  red;
+    width: 800px;
+    height: 700px;
+    position: relative;
+}
+
+.div2 {
+    background-color:  green;
+    width: 700px;
+    height: 600px;
+    position: absolute;
+    margin-top: -650px;
+    margin-left: 70px;
+}
